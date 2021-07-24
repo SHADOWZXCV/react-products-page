@@ -1,0 +1,14 @@
+{
+  "name": "scandiweb_test_assignment_production",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ezz-Aldyn Husen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
